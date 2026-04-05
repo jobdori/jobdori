@@ -1,5 +1,5 @@
 ## 💼 Day Job
-Business Developer at a tax-related fintech company — 
+Business Developer at a fintech company — 
 building financial infrastructure that actually matters.
 
 ## 🚀 Side Project
