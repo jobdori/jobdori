@@ -1,4 +1,3 @@
-# kathypark
 ## 💼 Day Job
 Backend engineer at a tax-related fintech company — 
 building financial infrastructure that actually matters.
