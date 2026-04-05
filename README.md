@@ -1,5 +1,5 @@
 ## 💼 Day Job
-Backend engineer at a tax-related fintech company — 
+Business Developer at a tax-related fintech company — 
 building financial infrastructure that actually matters.
 
 ## 🚀 Side Project
